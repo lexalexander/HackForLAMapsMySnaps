@@ -1,4 +1,4 @@
-HackForLAMapsMySnaps
+Hello world 
+grunt serve
 ====================
 
-MapMySnaps 
